@@ -1,0 +1,8 @@
+name: calc_parser
+version: 0.0.1
+description: A sample application
+dependencies:
+  string_scanner:
+    git: git@github.com:takasan989/dart_string_scanner.git
+dev_dependencies:
+  unittest: any
